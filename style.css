@@ -121,6 +121,7 @@ table {
     align-items: center;
     color: black;
     font-family: monospace;
+    font-weight: bold;
   }
 
   .form-input{
